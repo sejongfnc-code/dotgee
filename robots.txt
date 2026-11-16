@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sejongfnc-code.github.io/dotgee/sitemap.xml
